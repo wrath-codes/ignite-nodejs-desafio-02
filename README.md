@@ -1,7 +1,7 @@
 # ** Desafio 2 - [ ] Requirements **
 
 ### Regras da aplicação
-
+## RF's (Requisitos funcionais)
 - [ ] Deve ser possível criar um usuário
 - [ ] Deve ser possível identificar o usuário entre as requisições
 - [ ] Deve ser possível registrar uma refeição feita, com as seguintes informações:
@@ -19,4 +19,6 @@
     - Quantidade total de refeições dentro da dieta
     - Quantidade total de refeições fora da dieta
     - Melhor sequência por dia de refeições dentro da dieta
+
+## RN's (Requisitos de negocio)
 - [ ] O usuário só pode visualizar, editar e apagar as refeições o qual ele criou
